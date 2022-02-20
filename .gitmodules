@@ -4,6 +4,7 @@
 [submodule "xilinx/external/prjxray-db"]
 	path = xilinx/external/prjxray-db
 	url = https://github.com/kintex-chatter/prjxray-db
+	branch = k325
 [submodule "xilinx/external/nextpnr-xilinx-meta"]
 	path = xilinx/external/nextpnr-xilinx-meta
 	url = https://github.com/gatecat/nextpnr-xilinx-meta
